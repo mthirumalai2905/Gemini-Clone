@@ -27,19 +27,19 @@ const Main = () => {
                         </div>
                         <div className='cards-container'>
                             <div className='cards'>
-                                <p>Suggest beautiful places to see an upcoming road trip</p>
+                                <p>Suggest me top trendy programming languages to learn today</p>
                                 <img src={assets.compass_icon} alt="compass" />
                             </div>
                             <div className='cards'>
-                                <p>Briefly summarize this concept: urban planning</p>
+                                <p>Please write me a blog on Ai takeovers</p>
                                 <img src={assets.bulb_icon} alt="bulb" />
                             </div>
                             <div className='cards'>
-                                <p>Brainstorm team bonding activities for our work retreat</p>
+                                <p>Give me some small stories to baby sit kids</p>
                                 <img src={assets.message_icon} alt="message" />
                             </div>
                             <div className='cards'>
-                                <p>Improve the readability of the following code</p>
+                                <p>Optimize and improve the following code</p>
                                 <img src={assets.code_icon} alt="code" />
                             </div>
                         </div>
